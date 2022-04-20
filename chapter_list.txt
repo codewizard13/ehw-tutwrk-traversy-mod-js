@@ -1,0 +1,272 @@
+###  Section 1: Intro & Getting Started
+####  1. Welcome To The Course
+####  2. Project Files & Questions
+####  3. Projects Github Repo
+####  4. Visual Studio Code Setup
+
+###  Section 2: JavaScript Language Fundamentals
+####  5. Section Intro & File Setup
+####  6. Using The Console
+####  7. Variables - var, let & const
+####  8. Data Types in JavaScript
+####  9. Type Conversion
+####  10. Numbers & The Math Object
+####  11. String Methods & Concatenation
+####  12. Template Literals
+####  13. Arrays & Array Methods
+####  14. Object Literals
+####  15. Dates & Times
+####  16. If Statements & Comparison Operators
+####  17. Switches
+####  18. Function Declarations & Expressions
+####  19. General Loops
+####  20. A Look At The Window Object
+####  21. Block Scope With let & const
+##### RESOURCES:
+- 2_1_project_files.zip
+- 2_2_project_files.zip
+- 2_3_project_files.zip
+- 2_4_project_files.zip
+- 2_5_project_files.zip
+- 2_6_project_files.zip
+- 2_7_project_files.zip
+- 2_8_project_files.zip
+- 2_9_project_files.zip
+- 2_10_project_files.zip
+- 2_11_project_files.zip
+- 2_12_project_files.zip
+- 2_13_project_files.zip
+- 2_14_project_files.zip
+- 2_15_project_files.zip
+- 2_16_project_files.zip
+- 2_17_project_files.zip
+
+###  Section 3: DOM Manipulation & Events
+####  22. What Is The DOM?
+####  23. Examining The Document Object
+####  24. DOM Selectors For Single Elements
+####  25. DOM Selectors For Multiple Elements
+####  26. Traversing The DOM
+####  27. Creating Elements
+####  28. Removing & Replacing Elements
+####  29. Event Listeners & The Event Object
+####  30. Mouse Events
+####  31. Keyboard & Input Events
+####  32. Event Bubbling & Delegation
+####  33. Local & Session Storage
+##### RESOURCES:
+- 3_2_project_files.zip
+- 3_3_project_files.zip
+- 3_4_project_files.zip
+- 3_5_project_files.zip
+- 3_6_project_files.zip
+- 3_7_project_files.zip
+- 3_8_project_files.zip
+- 3_9_project_files.zip
+- 3_10_project_files.zip
+- 3_11_project_files.zip
+- 3_12_project_files.zip
+
+###  Section 4: DOM Projects
+####  34. Task List [Part 1] - UI & Add Task Items
+####  35. Task List [Part 2] - Delete & Filter Tasks
+####  36. Task List [Part 3] - Persist To Local Storage
+####  37. Loan Calculator [Part 1] - Build The UI
+####  38. Loan Calculator [Part 2] - Calculate & Error
+####  39. Loan Calculator [Part 3] - Loader & User Experience
+####  40. Number Guesser [Part 1] - Build The UI
+####  41. Number Guesser [Part 2] - Validation & Winning Case
+####  42. Number Guesser [Part 3] - Lose Case & Game Over
+####  43. Number Guesser [Part 4] - Play Again
+##### RESOURCES:
+- 4_1_project_files.zip
+- 4_2_project_files.zip
+- 4_3_project_files.zip
+- 4_4_project_files.zip
+- 4_5_project_files.zip
+- 4_6_project_files.zip
+- 4_7_project_files.zip
+- 4_8_project_files.zip
+- 4_9_project_files.zip
+- 4_10_project_files.zip
+
+###  Section 5: Object Oriented JavaScript - ES5 & ES2015
+####  44. Constructors & the 'this' Keyword
+####  45. Built In Constructors
+####  46. Prototypes Explained
+####  47. Prototypal Inheritance
+####  48. Using Object.create
+####  49. ES6 Classes
+####  50. Sub Classes
+##### RESOURCES:
+- 5_1_project_files.zip
+- 5_2_project_files.zip
+- 5_3_project_files.zip
+- 5_4_project_files.zip
+- 5_5_project_files.zip
+- 5_6_project_files.zip
+- 5_7_project_files.zip
+
+###  Section 6: OOP Book List Project
+####  51. Build The Book List UI
+####  52. Add Book To List
+####  53. Validation & Alert
+####  54. Delete Book From List
+####  55. Convert to ES6 Classes
+####  56. Bonus - Add Local Storage
+##### RESOURCES:
+- 6_1_project_files.zip
+- 6_2_project_files.zip
+- 6_3_project_files.zip
+- 6_4_project_files.zip
+- 6_5_project_files.zip
+- 6_6_project_files.zip
+
+###  Section 7: Asynchronous JavaScript, Ajax & Fetch API
+####  57. What Is Asynchronous Programming?
+####  58. Ajax & XHR Introduction
+####  59. XHR Object Methods & Working With Text
+####  60. Working With Ajax & JSON
+####  61. Data From an External API - Chuck Norris Project
+####  62. REST APIs & HTTP Requests
+####  63. Callback Functions
+####  64. Custom HTTP Library (Ajax With Callbacks) - Part 1
+####  65. Custom HTTP Library (Ajax With Callbacks) - Part 2
+####  66. ES6 Promises
+####  67. The Fetch API
+####  68. Error Handling With Fetch
+####  69. Arrow Functions
+####  70. Custom HTTP Library (Fetch With Promises) - Part 3
+####  71. Async & Await
+####  72. Custom HTTP Library (Fetch With Async Await) - Part 4
+##### RESOURCES:
+- 7_3_project_files.zip
+- 7_4_project_files.zip
+- 7_5_project_files.zip
+- 7_7_project_files.zip
+- 7_8_project_files.zip
+- 7_9_project_files.zip
+- 7_10_project_files.zip
+- 7_11_project_files.zip
+- 7_12_project_files.zip
+- 7_13_project_files.zip
+- 7_14_project_files.zip
+- 7_15_project_files.zip
+
+###  Section 8: API Projects
+####  73. Github Finder [Part 1] - Intro & UI
+####  74. Github Finder [Part 2] - Fetching Profile Data
+####  75. Github Finder [Part 3] - Display The Profile
+####  76. Github Finder [Part 4] - Show Alert Message
+####  77. Github Finder [Part 5] - Fetch & Display Repos
+####  78. WeatherJS [Part 1] - Intro & UI
+####  79. WeatherJS [Part 2] - Fetch Weather From API
+####  80. WeatherJS [Part 3] - Display The Weather
+####  81. WeatherJS [Part 4] - Save Location To Local Storage
+##### RESOURCES:
+- 8_1_project_files.zip
+- 8_2_project_files.zip
+- 8_3_project_files.zip
+- 8_4_project_files.zip
+- 8_5_project_files.zip
+- 8_6_project_files.zip
+- PLEASE READ - API HAS CHANGED.txt
+- 8_7_project_files.zip
+- 8_8_project_files.zip
+- 8_9_project_files.zip
+
+###  Section 9: Error Handling & Regular Expressions
+####  82. Error Handling with Try...Catch
+####  83. Regular Expressions [Part 1] - Evaluation Functions
+####  84. Regular Expressions [Part 2] - Metacharacter Symbols
+####  85. Regular Expressions [Part 3] - Character Sets & Quantifiers
+####  86. Regular Expressions [Part 4] - Shorthand Character Classes
+####  87. Regular Expressions - Form Validation Project
+##### RESOURCES:
+- 9_1_project_files.zip
+- 9_2_project_files.zip
+- 9_3_project_files.zip
+- 9_4_project_files.zip
+- 9_5_project_files.zip
+- 9_6_project_files.zip
+
+###  Section 10: Other Newer Features - ES2015+
+####  88. Iterators & Generators
+####  89. Profile Scroller - Iterator Mini Project
+####  90. Symbols
+####  91. Destructuring
+####  92. ES6 Maps
+####  93. ES6 Sets
+##### RESOURCES:
+- 10_1_project_files.zip
+- 10_2_project_files.zip
+- 10_3_project_files.zip
+- 10_4_project_files.zip
+- 10_5_project_files.zip
+- 10_6_project_files.zip
+
+###  Section 11: JavaScript Patterns
+####  94. What Are Patterns?
+####  95. Module & Revealing Module Pattern
+####  96. Singleton Pattern
+####  97. Factory Pattern
+####  98. Observer Pattern
+####  99. Mediator Pattern
+####  100. State Pattern - Small Project
+##### RESOURCES:
+- 11_2_project_files.zip
+- 11_3_project_files.zip
+- 11_4_project_files.zip
+- 11_5_project_files.zip
+- 11_6_project_files.zip
+- 11_7_project_files.zip
+
+###  Section 12: Tracalorie Project (Using The Module Pattern)
+####  101. Project Introduction
+####  102. Creating The UI With Materialize CSS
+####  103. Controllers & Data Structure
+####  104. Get & Populate Items
+####  105. Add Item To Data Structure
+####  106. Add Item To The UI
+####  107. Add Total Calories
+####  108. Working With The Edit State
+####  109. Updating Items & Total Calories
+####  110. Delete & Clear Items
+####  111. Add & Get From Local Storage
+####  112. Delete & Clear From Local Storage
+##### RESOURCES:
+- 12_2_project_files.zip
+- 12_3_project_files.zip
+- 12_4_project_files.zip
+- 12_5_project_files.zip
+- 12_6_project_files.zip
+- 12_7_project_files.zip
+- 12_8_project_files.zip
+- 12_9_project_files.zip
+- 12_10_project_files.zip
+- 12_11_project_files.zip
+- 12_12_project_files.zip
+
+###  Section 13: Microposts Project - CRUD Front End (Webpack & Babel)
+####  113. Babel & Webpack Environment Setup
+####  114. Intro To ES2015 Modules
+####  115. Create The UI
+####  116. Create a fake REST API Using JSON Server
+####  117. Get & Display Posts
+####  118. Add Posts & Show Alert
+####  119. Removing Posts
+####  120. Post Edit State & Update [1]
+####  121. Post Edit State & Update [2]
+##### RESOURCES:
+- 13_1_project_files.zip
+- 13_2_project_files.zip
+- 13_3_project_files.zip
+- 13_4_project_files.zip
+- 13_5_project_files.zip
+- 13_6_project_files.zip
+- 13_7_project_files.zip
+- 13_8_project_files.zip
+- 13_9_project_files.zip
+
+###  Section 14: Wrap Up
+####  122. Wrap Up & Where To Go From Here
