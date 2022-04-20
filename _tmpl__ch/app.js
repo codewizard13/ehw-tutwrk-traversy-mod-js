@@ -8,6 +8,8 @@ chapter.innerHTML = ch_title;
 const sec_el = document.querySelector('h1 > span');
 sec_el.innerHTML = sec_num
 
+/* --------------------------- */
+
 let val;
 
 
