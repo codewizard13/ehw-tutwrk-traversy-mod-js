@@ -38,41 +38,33 @@ This is a front to back JavaScript course for absolutely everybody. We start wit
 
 - **Length:** 21.5 hours
   
-### Final Website Layout:
+### Project Screenshots:
 
-![](img/ehw-screenshot--traversy-cssgrid-site-01.jpg)
+[PROJECT_SCREENSHOTS_PLACEHOLDER]
 
 
 ## Usage:
-1. CD to project folder in a shell terminal
-2. Run npm start
-3. Launch http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+1. N/A
    
 ## Sample results: 
-[N/A]
+
+- N/A
 
 ## Requires:
-* A web browser.
+* A web browser
+* GitBash
+* VS Code
   
-## Demonstrates:
-* JavaScript
-* ReactJS
-* ReactDOM
-* slice()
-* immutable objects
-
-## Based on this tutorial:
-- Title: Build a Responsive Grid CSS Website Layout From Scratch
-- URL: https://www.youtube.com/watch?v=moBhzSC455o
-- Channel: YouTube
+## Based on this COURSE:
+- Title: Modern JavaScript From The Beginning
+- URL: https://udemy.com/course/modern-javascript-from-the-beginning
+- Channel: Udemy
 
 ## TAGS:
-CSS Grid
+`Modern JavaScript` `JavaScript` `ES6` `Project-Based Learning` `Course` `Udemy` `Traversy`
 
 ## VOCAB:
 - Tutwrk: This is term I use to indicate the work I did when following a tutorial. This term is differentiated from tutorials I may create/author in the future that will be designated with the term "Tutorial".
 
 ## Resources:
-- [Full React code for the final result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
-- [React "Hello World"](https://reactjs.org/docs/hello-world.html)
-- [React.Component reference](https://reactjs.org/docs/react-component.html)
+- N/A
