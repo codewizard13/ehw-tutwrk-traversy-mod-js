@@ -1,7 +1,17 @@
 // Listen for submit
-document.getElementById('loan-form').addEventListener('submit', calculateResults)
+document.getElementById('loan-form').addEventListener('submit', function (e) {
+  // Hide results right away
+  document.getElementById('results').style.display = 'none'
 
-function calculateResults(e) {
+  // Show loader
+  document.getElementById('loading').style.display = 'block'
+
+  setTimeout(calculateResults, 2000)
+
+  e.preventDefault()
+})
+
+function calculateResults() {
   console.log('Calculating ...')
   // UI Input Vars
   const amount = document.getElementById('amount')
@@ -21,23 +31,36 @@ function calculateResults(e) {
   // Compute Monthly Payments
   const x = Math.pow(1 + calculatedInterest, calculatedPayments)
   const monthly = (principal * x * calculatedInterest) / (x - 1)
-  
+
   // Validate
   if (isFinite(monthly)) {
     monthlyPayment.value = monthly.toFixed(2)
     totalPayment.value = (monthly * calculatedPayments).toFixed(2)
     totalInterest.value = ((monthly * calculatedPayments) - principal).toFixed(2)
+
+    // Show Results
+    document.getElementById('loading').style.display = 'block'
+
+    // Hide loader
+    document.getElementById('results').style.display = 'none'
+
   } else {
     // console.error('Please Check Your NUMBERS')
-    
+
     showError('Please check your numbers')
   }
 
-  e.preventDefault()
+  // e.preventDefault()
 }
 
 // Show Error
 function showError(error) {
+    // Hide Results
+    document.getElementById('loading').style.display = 'none'
+
+    // Hide loader
+    document.getElementById('results').style.display = 'none'
+
   // Create a div
   const errorDiv = document.createElement('div')
 
@@ -47,7 +70,7 @@ function showError(error) {
 
   // Add class
   errorDiv.className = 'alert alert-danger' // Bootstrap classes
-  
+
   // Create text node and append to div
   errorDiv.appendChild(document.createTextNode(error))
 
